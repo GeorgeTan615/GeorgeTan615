@@ -1,5 +1,5 @@
 - 👋 Hi, I’m George Tan Juan Sheng
-- 👀 I’m interested in Software Engineering and I'm enthusiastic on creating stuff that is able to bring value to the public
+- 👀 I’m interested in Software, Web Development and I'm enthusiastic on creating stuff that is able to bring value to the public
 - 📫 Feel free to reach me at georgetan.business@gmail.com
 
 <!---
