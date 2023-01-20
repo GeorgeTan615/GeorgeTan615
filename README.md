@@ -1,5 +1,9 @@
-- 👋 Hi, I’m George Tan Juan Sheng, a final year Computer Science student at Monash University Malaysia and I'm very interested in technology!
-- 📫 Feel free to reach me at georgetan.business@gmail.com!
+# Welcome to my GitHub repository!
+👋 Hi, my name is George Tan Juan Sheng, and I'm a 22-year-old CS fresh graduate from Monash University. I'm a tech enthusiast with a passion for building solutions that empower people.<br/>
+<br/>
+💭 In this repository, you'll find a collection of projects that I've been working on as a fresh graduate. These projects demonstrate my skills and passion for technology, and I hope they'll give you a sense of the kind of work that I'm capable of.<br/>
+<br/>
+📫 Feel free to reach me at georgetan.business@gmail.com!
 
 <!---
 GeorgeTan615/GeorgeTan615 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
