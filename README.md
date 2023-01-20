@@ -5,7 +5,7 @@
 <br/>
 💫 Recently I've been working on a project that I've wanted to build for a very long time and I can't wait for it to be completed! Stay tuned!<br/>
 <br/>
-📫 Feel free to reach me at georgetan.business@gmail.com!
+📫 Feel free to reach me at georgetan.business@gmail.com for jobs or networking purposes.
 
 <!---
 GeorgeTan615/GeorgeTan615 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
