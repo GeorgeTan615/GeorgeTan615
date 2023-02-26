@@ -1,7 +1,7 @@
 # Welcome to my GitHub repository!
 👋 Hi, my name is George Tan Juan Sheng, and I'm a 22-year-old CS fresh graduate from Monash University. I'm a tech enthusiast with a passion for building solutions that empower people. <br/>
 <br/>
-💫 I'm also a fast learner and I find it exciting to pick up things that I'm unfamiliar with!
+💫 I'm also a fast learner and I find it exciting to pick up things that I'm unfamiliar with!<br/>
 <br/>
 💭 In this repository, you'll find a collection of projects that I've been working on as a fresh graduate. These projects demonstrate my skills and passion for technology, and I hope they'll give you a sense of the kind of work that I'm capable of.<br/>
 <br/>
