@@ -5,7 +5,7 @@
 
 💭 In this repository, you'll find a collection of projects that I've been working on as a fresh graduate. These projects demonstrate my skills and passion for technology, and I hope they'll give you a sense of the kind of work that I'm capable of.
 
-📫 Feel free to reach me at georgetan.business@gmail.com for jobs or networking purposes.
+📫 Feel free to reach me at georgetan.business@gmail.com for jobs or networking purposes!
 
 <!---
 GeorgeTan615/GeorgeTan615 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
