@@ -1,5 +1,5 @@
 # Welcome to my GitHub repository!
-👋 Hi, my name is George Tan Juan Sheng, a 25-year-old Backend Engineer, ex-[OpenMarket](https://openmarket.xyz/) and ex-[MoneyLion](https://www.moneylion.com/).
+👋 Hi, my name is George Tan Juan Sheng, a 25-year-old Backend Engineer, current [Paragon](https://paragon.trade/), ex-[OpenMarket](https://openmarket.xyz/) and ex-[MoneyLion](https://www.moneylion.com/).
 
 💫 In this repository, you'll find a collection of projects that I've been working on recently. I'm a fast learner and I find it exciting to pick up things that I'm unfamiliar with!
 
